@@ -9,3 +9,7 @@ No mention!
 
 3. https://github.com/SamyPesse/reportr/blob/master/LICENSE
 Apache in a separate license file
+
+4. https://github.com/vhf/free-programming-books/blob/master/LICENSE
+unlicense...
+but look at the content
