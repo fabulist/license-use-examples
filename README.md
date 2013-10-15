@@ -16,3 +16,4 @@ but look at the content
 
 5. https://github.com/TryGhost/Ghost
 MIT in the ReadMe
+and in a separate file License.txt (i.e., didn't use the picker)
