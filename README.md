@@ -17,3 +17,6 @@ but look at the content
 5. https://github.com/TryGhost/Ghost
 MIT in the ReadMe
 and in a separate file License.txt (i.e., didn't use the picker)
+
+6. https://github.com/yhat/ggplot/blob/master/LICENSE
+in a separate file called license trouble shooting. a unique version of MIT. 
