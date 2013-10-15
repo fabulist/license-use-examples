@@ -13,3 +13,6 @@ Apache in a separate license file
 4. https://github.com/vhf/free-programming-books/blob/master/LICENSE
 unlicense...
 but look at the content
+
+5. https://github.com/TryGhost/Ghost
+MIT in the ReadMe
