@@ -20,3 +20,8 @@ and in a separate file License.txt (i.e., didn't use the picker)
 
 6. https://github.com/yhat/ggplot/blob/master/LICENSE
 in a separate file called license trouble shooting. a unique version of MIT. 
+
+7. https://github.com/HubSpot/odometer/blob/master/LICENSE
+i think it is a unique creation. (c) notice coupled with disclaim of all exclusive rights... and the description is this:  Support setting options after bringing in the odometer file. Support …
+
+…auto init on IE8. Make digit formatting safe from infinite loops. Add contributing instructions and license.
