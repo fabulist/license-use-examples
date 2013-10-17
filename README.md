@@ -25,3 +25,10 @@ in a separate file called license trouble shooting. a unique version of MIT.
 i think it is a unique creation. (c) notice coupled with disclaim of all exclusive rights... and the description is this:  Support setting options after bringing in the odometer file. Support …
 
 …auto init on IE8. Make digit formatting safe from infinite loops. Add contributing instructions and license.
+
+8. https://github.com/twbs/bootstrap/blob/master/DOCS-LICENSE
+this guy is loving licenes... the above is i assume for the documentation.
+then there is:
+https://github.com/twbs/bootstrap/blob/master/LICENSE - Apache, and then https://github.com/twbs/bootstrap/blob/master/LICENSE-MIT with the comment "add a comment about switching to MIT"
+
+
