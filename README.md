@@ -31,4 +31,7 @@ this guy is loving licenes... the above is i assume for the documentation.
 then there is:
 https://github.com/twbs/bootstrap/blob/master/LICENSE - Apache, and then https://github.com/twbs/bootstrap/blob/master/LICENSE-MIT with the comment "add a comment about switching to MIT"
 
+9. https://github.com/cocaine/cocaine-core
+this is amazing! the description for license.md is BSD-LGPL, and then the text is LGPL
+
 
