@@ -34,4 +34,7 @@ https://github.com/twbs/bootstrap/blob/master/LICENSE - Apache, and then https:/
 9. https://github.com/cocaine/cocaine-core
 this is amazing! the description for license.md is BSD-LGPL, and then the text is LGPL
 
+10. https://github.com/jrburke/requirejs/blob/master/LICENSE
+there are two here! Bsd and MIT... licensed under two licenses according ot the text. 
+
 
