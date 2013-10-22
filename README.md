@@ -3,12 +3,16 @@ license-use-examples
 
 easiest to understnad how fuzzy this space is:
 
+10/22
+
 https://github.com/search?&q=MIT+LICENSE&ref=cmdform&search_target=global&type=Code
 13,876,836
 https://github.com/search?q=GPL+LICENSE&type=Code&ref=searchresults
 56,069,646
 https://github.com/search?q=BSD&type=Code&ref=searchresults
 34,397,388
+https://github.com/search?q=creative+commons&type=Code&ref=searchresults
+2,145,915
 
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
