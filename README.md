@@ -13,6 +13,8 @@ https://github.com/search?q=BSD&type=Code&ref=searchresults
 34,397,388
 https://github.com/search?q=creative+commons&type=Code&ref=searchresults
 2,145,915
+wow!!! no license!! they took pain to say that!
+106,623,521 
 
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
