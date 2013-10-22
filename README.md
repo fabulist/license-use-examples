@@ -4,6 +4,9 @@ license-use-examples
 easiest to understnad how fuzzy this space is:
 
 https://github.com/search?&q=MIT+LICENSE&ref=cmdform&search_target=global&type=Code
+13,876,836
+https://github.com/search?q=GPL+LICENSE&type=Code&ref=searchresults
+56,069,646
 
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
