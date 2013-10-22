@@ -1,5 +1,10 @@
 license-use-examples
 ====================
+
+easiest to understnad how fuzzy this space is:
+
+https://github.com/search?&q=MIT+LICENSE&ref=cmdform&search_target=global&type=Code
+
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
 Fonts copyrighted
