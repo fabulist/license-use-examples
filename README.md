@@ -7,6 +7,8 @@ https://github.com/search?&q=MIT+LICENSE&ref=cmdform&search_target=global&type=C
 13,876,836
 https://github.com/search?q=GPL+LICENSE&type=Code&ref=searchresults
 56,069,646
+https://github.com/search?q=BSD&type=Code&ref=searchresults
+34,397,388
 
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
