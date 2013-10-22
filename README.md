@@ -15,6 +15,8 @@ https://github.com/search?q=creative+commons&type=Code&ref=searchresults
 2,145,915
 wow!!! no license!! they took pain to say that!
 106,623,521 
+https://github.com/search?q=apache&type=Code&ref=searchresults
+We've found 30,946,150 code results
 
 1. https://github.com/benweet/stackedit/search?q=license&ref=cmdform
 Apache v. 2.0 (not in separate file)
